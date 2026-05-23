@@ -41,5 +41,5 @@
 ---
 
 <p align="center">
-  <img src="https://pin.it/1i8F1UclS" alt="Profile Visual" width="600">
+  <img src="C:\Users\MYBOOK\Downloads\nihaloves.jpg" alt="Profile Visual" width="600">
 </p>
