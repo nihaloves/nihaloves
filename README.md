@@ -41,5 +41,6 @@
 ---
 
 <p align="center">
-  <img src="C:\Users\MYBOOK\Downloads\nihaloves.jpg" alt="Profile Visual" width="600">
+  <img src="nihaloves" alt="Profile Visual" width="600">
 </p>
+<img width="720" height="670" alt="nihaloves" src="https://github.com/user-attachments/assets/2467ff8c-625c-4b7a-b80d-b97b7f24d6cb" />
