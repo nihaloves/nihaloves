@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=NIHARIKA%20K%20THILAK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BUILDING%20THE%20FUTURE&fontSize=35&fontColor=ffffff"/>
 </p>
 
 # Hi there, I'm Niharika K Thilak 👋
