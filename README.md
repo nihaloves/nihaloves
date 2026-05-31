@@ -79,6 +79,4 @@ I’m currently focusing on:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihaloves&show_icons=true&theme=tokyonight" />
-</p>
+<p align="center"> <img src="nihaloves" width="600"> </p> <img width="720" height="670" alt="nihaloves" src="https://github.com/user-attachments/assets/2467ff8c-625c-4b7a-b80d-b97b7f24d6cb" />
