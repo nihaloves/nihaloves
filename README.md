@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## 🌼 About Me
 
 I’m a Computer Science student passionate about building meaningful, human-centered technology that blends **logic, creativity, and real-world impact**.
 
