@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-# I'm Niharika Thilak 🚀
+# I'm Niharika K Thilak 🚀
 
 🎓 **Computer Science & Engineering Student** 🧠 **Interested in:** AI, Computational Anthropology, and Human-Centered Tech  
 🚀 **Building:** Projects, exploring research, and growing as a developer  
