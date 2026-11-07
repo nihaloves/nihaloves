@@ -1,86 +1,126 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BUILDING%20THE%20FUTURE&fontSize=35&fontColor=ffffff"/>
-</p>
+ <div align="center">
 
-# Hi there, I'm Niharika K Thilak 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:14213D,50:0D5C63,100:3BA99C&text=NIHARIKA%20K%20THILAK&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Curious%20enough%20to%20build.%20Ambitious%20enough%20to%20lead.&descAlignY=58&descSize=14" width="100%"/>
 
-## 🚀 Computer Science & Engineering Student | Builder | Explorer
+### Computer Science & Engineering | Developer | Builder
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D5C63?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihalovess/)
+[![GitHub](https://img.shields.io/badge/GitHub-nihaloves-14213D?style=flat-square&logo=github&logoColor=white)](https://github.com/nihaloves)
+[![Profile Views](https://komarev.com/ghpvc/?username=nihaloves&style=flat-square&color=3BA99C)](https://github.com/nihaloves)
 
-## 🌼 About Me
-
-I’m a Computer Science student passionate about building meaningful, human-centered technology that blends **logic, creativity, and real-world impact**.
-
-I enjoy exploring how technology connects with **AI, human behavior, and interdisciplinary systems**, while continuously improving as a developer.
+</div>
 
 ---
 
-## 🎯 Current Focus
+## About
 
-- 💻 Building real-world full-stack projects  
-- 🧠 Strengthening Data Structures & Algorithms  
-- 🏗️ Learning System Design fundamentals  
-- 🚀 Exploring scalable backend architectures  
-- 🔍 Growing interest in AI & research-driven tech  
+I'm a Computer Science and Engineering student interested in building technology that solves real problems.
 
----
+My interests span software engineering, full-stack development, intelligent systems, and the intersection of technology and human behaviour.
 
-## 🛠️ Tech Stack
+I enjoy taking ideas from concept to implementation, experimenting with different technologies, and learning by building.
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+Currently exploring how thoughtful engineering can turn interesting ideas into useful products.
 
 ---
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## What I'm Working On
+
+- Developing full-stack applications and backend systems.
+- Strengthening Data Structures and Algorithms.
+- Exploring database design and system architecture.
+- Building practical projects with Java, Python, and JavaScript.
+- Exploring AI, research, and interdisciplinary technology.
+- Participating in developer communities and collaborative projects.
 
 ---
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Technical Skills
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark)](https://skillicons.dev)
+
+**Frontend Development**
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
+
+**Backend Development**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+
+**Databases & Backend Platforms**
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase&theme=dark)](https://skillicons.dev)
+
+**Tools & Development Environment**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux&theme=dark)](https://skillicons.dev)
+
+**Also exploring:** REST APIs, full-stack architecture, database management, and software design principles.
 
 ---
 
-## 🚀 Featured Work
+## Selected Projects
 
-> 🔗 URL Shortener API (Backend)  
-A scalable REST API built using Node.js, Express, and MongoDB that shortens URLs and tracks analytics.
+A few things I've been building and experimenting with.
 
-👉 Check pinned repositories below for my projects.
+### Smart Classroom Management System
+**Java · Swing · MySQL**
 
----
+A desktop-based classroom management application designed to manage student information, attendance, marks, assignments, and classroom sessions through role-based interfaces.
 
-## 🌱 Learning Journey
+[View Repository →](https://github.com/nihaloves/smart-classroom-ms)
 
-I’m currently focusing on:
-- Full Stack Development (MERN)
-- Backend System Design
-- DSA for problem solving
-- Building production-level projects
+### Cinema Talkies
+**Full-stack Development · Web Application**
 
----
+A college TechFest ticketing system with online ticket submissions, payment verification, and a separate volunteer interface for ticket validation.
 
-## 🤝 Let’s Connect
+[View Repository →](https://github.com/nihaloves/cinema-talkies)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niharika-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihalovess/)
+### SPORE-NET
+**Network Resilience · Simulation · Bio-inspired Computing**
 
----
+Exploring adaptive network resilience through a simulation inspired by the transport-network behaviour of *Physarum polycephalum*.
 
-## ✨ GitHub Vibe
-
-> “Building slowly, learning deeply, and creating things.”
+[View Repository →](https://github.com/nihaloves/spore-net)
 
 ---
 
-<p align="center"> <img src="nihaloves" width="600"> </p> <img width="720" height="670" alt="nihaloves" src="https://github.com/user-attachments/assets/2467ff8c-625c-4b7a-b80d-b97b7f24d6cb" />
+## Beyond Coding
+
+I enjoy exploring ideas outside conventional software development.
+
+- **Research:** Astronomy, space technology, and interdisciplinary computing.
+- **Human behaviour:** Psychology, digital culture, and human-centred technology.
+- **Community:** Developer communities, IEEE, and collaborative initiatives.
+- **Creative work:** Writing, storytelling, and building ideas into products.
+
+I believe good technology begins with curiosity and becomes meaningful through thoughtful execution.
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nihaloves&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihaloves&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=nihaloves&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### A little curiosity goes a long way.
+
+*Thinking beyond the obvious.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,50:0D5C63,100:3BA99C&height=100&section=footer" width="100%"/>
+
+</div>
