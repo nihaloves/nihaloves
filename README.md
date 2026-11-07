@@ -105,11 +105,13 @@ I believe good technology begins with curiosity and becomes meaningful through t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nihaloves&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nihaloves&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihaloves&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihaloves&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=nihaloves&theme=tokyonight&hide_border=true" />
+  <br/>
+
+  <img width="95%" src="https://streak-stats.demolab.com?user=nihaloves&theme=tokyonight&hide_border=true" />
 
 </div>
 
